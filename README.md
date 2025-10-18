@@ -5,7 +5,7 @@ A payload generator that creates reverse shell.
 
 **Usage**
 
-python generate_payload.py <ip> <port>
+python generate_payload.py $ip $port
 
 ============
 
